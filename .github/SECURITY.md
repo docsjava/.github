@@ -9,7 +9,8 @@ for security releases.
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within Laravel Lang, please send an email to @m-asadullah. All security
+If you discover a security vulnerability within Laravel Lang, please send an email
+to [m-asadullah](mailto:m-asadullah@outlook.com). All security
 vulnerabilities will be promptly addressed.
 
 ### Public PGP Key
